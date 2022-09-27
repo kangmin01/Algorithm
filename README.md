@@ -12,6 +12,7 @@
 |  4   | 2022-09-27 |        [자릿수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/12931)        | Lv. 1  | [코드](/Programmers/Lv.%201/04.js) |
 |  5   | 2022-09-27 |      [정수 제곱근 판별](https://school.programmers.co.kr/learn/courses/30/lessons/12934)       | Lv. 1  | [코드](/Programmers/Lv.%201/05.js) |
 |  6   | 2022-09-27 | [자연수 뒤집어 배열로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12932) | Lv. 1  | [코드](/Programmers/Lv.%201/06.js) |
+|  6   | 2022-09-28 |   [문자열 내 p와 y의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/12916)    | Lv. 1  | [코드](/Programmers/Lv.%201/07.js) |
 
 <br></br>
 
