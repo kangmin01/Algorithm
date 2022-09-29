@@ -1,6 +1,10 @@
 //킹, 퀸, 룩, 비숍, 나이트, 폰
 const fs = require("fs");
-const input = fs.readFileSync("input.txt").toString().trim().split(" ");
+const input = fs
+  .readFileSync("./Baekjoon/input.txt")
+  .toString()
+  .trim()
+  .split(" ");
 
 const piece = [1, 1, 2, 2, 2, 8];
 
