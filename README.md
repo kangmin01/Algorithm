@@ -17,7 +17,9 @@
 |  9   | 2022-09-29 |  [정수 내림차순으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/12933)  | Lv. 1  | [코드](/Programmers/Lv.%201/09.js) |
 |  10  | 2022-09-29 |    [문자열을 정수로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/12925)    | Lv. 1  | [코드](/Programmers/Lv.%201/10.js) |
 |  11  | 2022-09-30 | [x만큼 간격이 있는 n개의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12954) | Lv. 1  | [코드](/Programmers/Lv.%201/11.js) |
-|  11  | 2022-09-30 |  [나머지가 1이 되는 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/87389)   | Lv. 1  | [코드](/Programmers/Lv.%201/12.js) |
+|  12  | 2022-09-30 |  [나머지가 1이 되는 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/87389)   | Lv. 1  | [코드](/Programmers/Lv.%201/12.js) |
+|  13  | 2022-10-01 |         [콜라츠 추측](https://school.programmers.co.kr/learn/courses/30/lessons/12943)          | Lv. 1  | [코드](/Programmers/Lv.%201/13.js) |
+|  14  | 2022-10-01 |      [두 정수 사이의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12912)       | Lv. 1  | [코드](/Programmers/Lv.%201/14.js) |
 
 <br></br>
 
