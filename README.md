@@ -20,6 +20,8 @@
 |  12  | 2022-09-30 |  [나머지가 1이 되는 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/87389)   | Lv. 1  | [코드](/Programmers/Lv.%201/12.js) |
 |  13  | 2022-10-01 |         [콜라츠 추측](https://school.programmers.co.kr/learn/courses/30/lessons/12943)          | Lv. 1  | [코드](/Programmers/Lv.%201/13.js) |
 |  14  | 2022-10-01 |      [두 정수 사이의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12912)       | Lv. 1  | [코드](/Programmers/Lv.%201/14.js) |
+|  15  | 2022-10-04 |     [서울에서 김서방 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12919)     | Lv. 1  | [코드](/Programmers/Lv.%201/15.js) |
+|  16  | 2022-10-04 |      [핸드폰 번호 가리기](https://school.programmers.co.kr/learn/courses/30/lessons/12948)      | Lv. 1  | [코드](/Programmers/Lv.%201/16.js) |
 
 <br></br>
 
