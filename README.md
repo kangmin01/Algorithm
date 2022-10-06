@@ -22,6 +22,7 @@
 |  14  | 2022-10-01 |      [두 정수 사이의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12912)       | Lv. 1  | [코드](/Programmers/Lv.%201/14.js) |
 |  15  | 2022-10-04 |     [서울에서 김서방 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12919)     | Lv. 1  | [코드](/Programmers/Lv.%201/15.js) |
 |  16  | 2022-10-04 |      [핸드폰 번호 가리기](https://school.programmers.co.kr/learn/courses/30/lessons/12948)      | Lv. 1  | [코드](/Programmers/Lv.%201/16.js) |
+|  17  | 2022-10-06 |  [나누어 떨어지는 숫자 배열](https://school.programmers.co.kr/learn/courses/30/lessons/12910)   | Lv. 1  | [코드](/Programmers/Lv.%201/17.js) |
 
 <br></br>
 
