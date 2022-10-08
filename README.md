@@ -23,6 +23,9 @@
 |  15  | 2022-10-04 |     [서울에서 김서방 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12919)     | Lv. 1  | [코드](/Programmers/Lv.%201/15.js) |
 |  16  | 2022-10-04 |      [핸드폰 번호 가리기](https://school.programmers.co.kr/learn/courses/30/lessons/12948)      | Lv. 1  | [코드](/Programmers/Lv.%201/16.js) |
 |  17  | 2022-10-06 |  [나누어 떨어지는 숫자 배열](https://school.programmers.co.kr/learn/courses/30/lessons/12910)   | Lv. 1  | [코드](/Programmers/Lv.%201/17.js) |
+|  18  | 2022-10-08 |    [제일 작은 수 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12935)     | Lv. 1  | [코드](/Programmers/Lv.%201/18.js) |
+|  19  | 2022-10-08 |         [음양 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/76501)          | Lv. 1  | [코드](/Programmers/Lv.%201/19.js) |
+|  20  | 2022-10-08 |       [없는 숫자 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/86051)       | Lv. 1  | [코드](/Programmers/Lv.%201/20.js) |
 
 <br></br>
 
