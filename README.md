@@ -26,6 +26,7 @@
 |  18  | 2022-10-08 |    [제일 작은 수 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12935)     | Lv. 1  | [코드](/Programmers/Lv.%201/18.js) |
 |  19  | 2022-10-08 |         [음양 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/76501)          | Lv. 1  | [코드](/Programmers/Lv.%201/19.js) |
 |  20  | 2022-10-08 |       [없는 숫자 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/86051)       | Lv. 1  | [코드](/Programmers/Lv.%201/20.js) |
+|  21  | 2022-10-13 |   [수박수박수박수박수박수?](https://school.programmers.co.kr/learn/courses/30/lessons/12922)    | Lv. 1  | [코드](/Programmers/Lv.%201/21.js) |
 
 <br></br>
 
