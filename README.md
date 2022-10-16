@@ -27,6 +27,12 @@
 |  19  | 2022-10-08 |         [음양 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/76501)          | Lv. 1  | [코드](/Programmers/Lv.%201/19.js) |
 |  20  | 2022-10-08 |       [없는 숫자 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/86051)       | Lv. 1  | [코드](/Programmers/Lv.%201/20.js) |
 |  21  | 2022-10-13 |   [수박수박수박수박수박수?](https://school.programmers.co.kr/learn/courses/30/lessons/12922)    | Lv. 1  | [코드](/Programmers/Lv.%201/21.js) |
+|  22  | 2022-10-16 |     [가운데 글자 가져오기](https://school.programmers.co.kr/learn/courses/30/lessons/12903)     | Lv. 1  | [코드](/Programmers/Lv.%201/22.js) |
+|  23  | 2022-10-16 |             [내적](https://school.programmers.co.kr/learn/courses/30/lessons/70128)             | Lv. 1  | [코드](/Programmers/Lv.%201/23.js) |
+|  24  | 2022-10-16 | [문자열 내림차순으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/12917) | Lv. 1  | [코드](/Programmers/Lv.%201/24.js) |
+|  25  | 2022-10-16 |      [문자열 다루기 기본](https://school.programmers.co.kr/learn/courses/30/lessons/12918)      | Lv. 1  | [코드](/Programmers/Lv.%201/25.js) |
+|  26  | 2022-10-16 |      [약수의 개수와 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/77884)      | Lv. 1  | [코드](/Programmers/Lv.%201/26.js) |
+|      |  2022-10-  |                                              []()                                               | Lv. 1  |  [코드](/Programmers/Lv.%201/.js)  |
 
 <br></br>
 
