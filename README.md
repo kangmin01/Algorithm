@@ -32,7 +32,10 @@
 |  24  | 2022-10-16 | [문자열 내림차순으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/12917) | Lv. 1  | [코드](/Programmers/Lv.%201/24.js) |
 |  25  | 2022-10-16 |      [문자열 다루기 기본](https://school.programmers.co.kr/learn/courses/30/lessons/12918)      | Lv. 1  | [코드](/Programmers/Lv.%201/25.js) |
 |  26  | 2022-10-16 |      [약수의 개수와 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/77884)      | Lv. 1  | [코드](/Programmers/Lv.%201/26.js) |
-|      |  2022-10-  |                                              []()                                               | Lv. 1  |  [코드](/Programmers/Lv.%201/.js)  |
+|  27  | 2022-10-17 |         [행렬의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/12950)          | Lv. 1  | [코드](/Programmers/Lv.%201/27.js) |
+|  28  | 2022-10-17 |     [부족한 금액 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/82612)     | Lv. 1  | [코드](/Programmers/Lv.%201/28.js) |
+|  29  | 2022-10-17 |       [직사각형 별찍기](https://school.programmers.co.kr/learn/courses/30/lessons/12969)        | Lv. 1  | [코드](/Programmers/Lv.%201/29.js) |
+|      | 2022-10-17 |                                              []()                                               | Lv. 1  |  [코드](/Programmers/Lv.%201/.js)  |
 
 <br></br>
 
