@@ -35,7 +35,9 @@
 |  27  | 2022-10-17 |         [행렬의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/12950)          | Lv. 1  | [코드](/Programmers/Lv.%201/27.js) |
 |  28  | 2022-10-17 |     [부족한 금액 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/82612)     | Lv. 1  | [코드](/Programmers/Lv.%201/28.js) |
 |  29  | 2022-10-17 |       [직사각형 별찍기](https://school.programmers.co.kr/learn/courses/30/lessons/12969)        | Lv. 1  | [코드](/Programmers/Lv.%201/29.js) |
-|  30  | 2022-10-22 |    [최대공약수와 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12940    | Lv. 1  | [코드](/Programmers/Lv.%201/30.js) |
+|  30  | 2022-10-22 |   [최대공약수와 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12940)    | Lv. 1  | [코드](/Programmers/Lv.%201/30.js) |
+|  31  | 2022-10-23 |       [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906)       | Lv. 1  | [코드](/Programmers/Lv.%201/31.js) |
+|  32  | 2022-10-23 |      [이상한 문자 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12930)      | Lv. 1  | [코드](/Programmers/Lv.%201/32.js) |
 |      | 2022-10-17 |                                              []()                                               | Lv. 1  |  [코드](/Programmers/Lv.%201/.js)  |
 
 <br></br>

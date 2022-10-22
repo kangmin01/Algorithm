@@ -13,7 +13,6 @@
 //     for (let i = 1; i <= m; i++) {
 //       if (m % i === 0) mArr.push(i);
 //     }
-//     console.log(nArr, mArr);
 //     for (let i = 0; i < nArr.length; i++) {
 //       for (let j = 0; j < mArr.length; j++) {
 //         if (nArr[i] === mArr[j]) {
