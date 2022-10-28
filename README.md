@@ -39,7 +39,9 @@
 |  31  | 2022-10-23 |       [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906)       | Lv. 1  | [코드](/Programmers/Lv.%201/31.js) |
 |  32  | 2022-10-23 |      [이상한 문자 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12930)      | Lv. 1  | [코드](/Programmers/Lv.%201/32.js) |
 |  33  | 2022-10-24 |         [3진법 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/68935)         | Lv. 1  | [코드](/Programmers/Lv.%201/33.js) |
-|      | 2022-10-17 |                                              []()                                               | Lv. 1  |  [코드](/Programmers/Lv.%201/.js)  |
+|  🔥  | 2022-10-28 |           [예산](https://school.programmers.co.kr/learn/courses/30/lessons/12982#qna)           | Lv. 1  | [코드](/Programmers/Lv.%201/34.js) |
+|  35  | 2022-10-28 |          [시저 암호](https://school.programmers.co.kr/learn/courses/30/lessons/12926)           | Lv. 1  | [코드](/Programmers/Lv.%201/35.js) |
+|      |  2022-10-  |                                              []()                                               | Lv. 1  |  [코드](/Programmers/Lv.%201/.js)  |
 
 <br></br>
 
