@@ -41,13 +41,13 @@
 |  33  | 2022-10-24 |         [3진법 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/68935)         | Lv. 1  | [코드](/Programmers/Lv.%201/33.js) |
 |  🔥  | 2022-10-28 |           [예산](https://school.programmers.co.kr/learn/courses/30/lessons/12982#qna)           | Lv. 1  | [코드](/Programmers/Lv.%201/34.js) |
 |  35  | 2022-10-28 |          [시저 암호](https://school.programmers.co.kr/learn/courses/30/lessons/12926)           | Lv. 1  | [코드](/Programmers/Lv.%201/35.js) |
-|      |  2022-10-  |                                              []()                                               | Lv. 1  |  [코드](/Programmers/Lv.%201/.js)  |
 
 <br></br>
 
 <h2>백준</h2>
 
-| 번호 |    날짜    |                                 문제                                 |                                 난이도                                  |            풀이            |
-| :--: | :--------: | :------------------------------------------------------------------: | :---------------------------------------------------------------------: | :------------------------: |
-|  1   | 2022-09-26 | [킹, 퀸, 룩, 비숍, 나이트, 폰](https://www.acmicpc.net/problem/3003) | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/1.svg" width="15"> | [코드](/Baekjoon/3003.js)  |
-|  2   | 2022-09-27 |           [영수증](https://www.acmicpc.net/problem/25304)            | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/1.svg" width="15"> | [코드](/Baekjoon/25304.js) |
+| 번호 |    날짜    |                                    문제                                    |                                 난이도                                  |            풀이            |
+| :--: | :--------: | :------------------------------------------------------------------------: | :---------------------------------------------------------------------: | :------------------------: |
+|  1   | 2022-09-26 | [3003. 킹, 퀸, 룩, 비숍, 나이트, 폰](https://www.acmicpc.net/problem/3003) | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/1.svg" width="15"> | [코드](/Baekjoon/3003.js)  |
+|  2   | 2022-09-27 |           [25304. 영수증](https://www.acmicpc.net/problem/25304)           | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/1.svg" width="15"> | [코드](/Baekjoon/25304.js) |
+|  3   | 2023-01-10 |         [2003. 수들의 합 2](https://www.acmicpc.net/problem/2003)          | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" width="15"> | [코드](/Baekjoon/2003.js)  |
