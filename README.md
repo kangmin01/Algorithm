@@ -56,14 +56,16 @@
 
 <h2>백준</h2>
 
-| 번호 |    날짜    |                                     문제                                     |                                 난이도                                  |             풀이              |
-| :--: | :--------: | :--------------------------------------------------------------------------: | :---------------------------------------------------------------------: | :---------------------------: |
-|  1   | 2022-09-26 | [3003 [킹, 퀸, 룩, 비숍, 나이트, 폰] ](https://www.acmicpc.net/problem/3003) | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/1.svg" width="15"> |   [코드](/Baekjoon/3003.js)   |
-|  2   | 2022-09-27 |           [25304 [영수증] ](https://www.acmicpc.net/problem/25304)           | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/1.svg" width="15"> |  [코드](/Baekjoon/25304.js)   |
-|  3   | 2023-01-10 |         [2003 [수들의 합 2] ](https://www.acmicpc.net/problem/2003)          | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" width="15"> |   [코드](/Baekjoon/2003.js)   |
-|  4   | 2023-01-25 |         [2747 [피보나치 수] ](https://www.acmicpc.net/problem/2747)          | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/4.svg" width="15"> |   [코드](/Baekjoon/2747.js)   |
-|  5   | 2023-01-25 |         [2748 [피보나치 수2] ](https://www.acmicpc.net/problem/2748)         | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/5.svg" width="15"> |   [코드](/Baekjoon/2748.js)   |
-|  6   | 2023-01-25 |          [1463 [1로 만들기] ](https://www.acmicpc.net/problem/1463)          | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" width="15"> |   [코드](/Baekjoon/1463.js)   |
-|  7   | 2023-01-25 |        [9095 [1, 2, 3 더하기] ](https://www.acmicpc.net/problem/9095)        | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" width="15"> |   [코드](/Baekjoon/9095.js)   |
-|  8   | 2023-01-31 |         [11726 [2×n 타일링] ](https://www.acmicpc.net/problem/11726)         | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" width="15"> | [코드](/Baekjoon/11726.js.js) |
-|  9   | 2023-01-31 |      [15988 [1, 2, 3 더하기 3] ](https://www.acmicpc.net/problem/15988)      | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" width="15"> |  [코드](/Baekjoon/15988.js)   |
+| 번호 |    날짜    |                                     문제                                     |                                  난이도                                  |            풀이            |
+| :--: | :--------: | :--------------------------------------------------------------------------: | :----------------------------------------------------------------------: | :------------------------: |
+|  1   | 2022-09-26 | [3003 [킹, 퀸, 룩, 비숍, 나이트, 폰] ](https://www.acmicpc.net/problem/3003) | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/1.svg" width="15">  | [코드](/Baekjoon/3003.js)  |
+|  2   | 2022-09-27 |           [25304 [영수증] ](https://www.acmicpc.net/problem/25304)           | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/1.svg" width="15">  | [코드](/Baekjoon/25304.js) |
+|  3   | 2023-01-10 |         [2003 [수들의 합 2] ](https://www.acmicpc.net/problem/2003)          | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" width="15">  | [코드](/Baekjoon/2003.js)  |
+|  4   | 2023-01-25 |         [2747 [피보나치 수] ](https://www.acmicpc.net/problem/2747)          | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/4.svg" width="15">  | [코드](/Baekjoon/2747.js)  |
+|  5   | 2023-01-25 |         [2748 [피보나치 수2] ](https://www.acmicpc.net/problem/2748)         | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/5.svg" width="15">  | [코드](/Baekjoon/2748.js)  |
+|  6   | 2023-01-25 |          [1463 [1로 만들기] ](https://www.acmicpc.net/problem/1463)          | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" width="15">  | [코드](/Baekjoon/1463.js)  |
+|  7   | 2023-01-25 |        [9095 [1, 2, 3 더하기] ](https://www.acmicpc.net/problem/9095)        | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" width="15">  | [코드](/Baekjoon/9095.js)  |
+|  8   | 2023-01-31 |         [11726 [2×n 타일링] ](https://www.acmicpc.net/problem/11726)         | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" width="15">  | [코드](/Baekjoon/11726.js) |
+|  9   | 2023-01-31 |      [15988 [1, 2, 3 더하기 3] ](https://www.acmicpc.net/problem/15988)      | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" width="15">  | [코드](/Baekjoon/15988.js) |
+|  10  | 2023-02-03 |            [1149 [RGB거리]](https://www.acmicpc.net/problem/1149)            | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width="15"> | [코드](/Baekjoon/1149.js)  |
+|  11  | 2023-02-03 |            [1309 [동물원]](https://www.acmicpc.net/problem/1309)             | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width="15"> | [코드](/Baekjoon/1309.js)  |
