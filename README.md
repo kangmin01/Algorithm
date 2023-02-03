@@ -69,3 +69,4 @@
 |  9   | 2023-01-31 |      [15988 [1, 2, 3 더하기 3] ](https://www.acmicpc.net/problem/15988)      | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" width="15">  | [코드](/Baekjoon/15988.js) |
 |  10  | 2023-02-03 |            [1149 [RGB거리]](https://www.acmicpc.net/problem/1149)            | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width="15"> | [코드](/Baekjoon/1149.js)  |
 |  11  | 2023-02-03 |            [1309 [동물원]](https://www.acmicpc.net/problem/1309)             | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width="15"> | [코드](/Baekjoon/1309.js)  |
+|  12  | 2023-02-03 |            [2231 [분해합]](https://www.acmicpc.net/problem/2231)             | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/4.svg" width="15">  | [코드](/Baekjoon/2231.js)  |
